@@ -52,4 +52,4 @@ ThemeData styles the whole app (e.g. the color scheme), while a style on one wid
 
 10. When you flip the dark-mode switch in Activity 5, which widget holds the state, and how does the
 change reach MaterialApp?
-A State object above MaterialApp holds the dark-mode bool, and setState() rebuilds MaterialApp with the new themeMode.
+A State object above MaterialApp holds the dark-mode bool, and setState() rebuilds MaterialApp with the new themeMode..
