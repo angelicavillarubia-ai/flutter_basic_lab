@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 // Change these two lines to your own details before you start.
 // ---------------------------------------------------------------
 const String studentName =
-    'ILFV3_VILLARUBIA_ANGELICA'; // e.g. 'IT3A_DELACRUZ_JUAN'
-const String studentId = '241-01159'; // your student ID
+    'ILFV3_ORTIZ_ASHLEY JOY'; // e.g. 'IT3A_DELACRUZ_JUAN'
+const String studentId = '241-01875'; // your student ID
 // Your personal theme color is picked from the last two digits of
 // your student ID, so every student's app looks a little different.
 const List<String> _colorNames = [

@@ -46,7 +46,7 @@ class ProfileCard extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Angelica Villarubia', // <-- change to your full name
+              'Ashley Joy Ortiz', // <-- change to your full name
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 4),
@@ -64,7 +64,7 @@ class ProfileCard extends StatelessWidget {
                     Icon(Icons.email, size: 20),
                     SizedBox(width: 8),
                     Text(
-                      'angelica.villarubia@csucc.edu.ph',
+                      'ashleyjoy.ortiz@csucc.edu.ph',
                     ), // <-- change to your email
                   ],
                 ),
@@ -74,7 +74,7 @@ class ProfileCard extends StatelessWidget {
                   children: [
                     Icon(Icons.phone, size: 20),
                     SizedBox(width: 8),
-                    Text('09638230049'), // <-- change to your phone number
+                    Text('09154732804'), // <-- change to your phone number
                   ],
                 ),
               ],
