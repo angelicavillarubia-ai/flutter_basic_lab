@@ -79,8 +79,8 @@ class _WaterTrackerPageState extends State<WaterTrackerPage> {
             const SizedBox(height: 8),
             Text(
               goalReached
-                  ? 'Daghan na imong nainom! Stay hydrated!'
-                  : 'sige inom pa!',
+                  ? 'Pag sge inom tubig!'
+                  : 'pag inom ha!',
               style: const TextStyle(fontSize: 18),
             ),
             const SizedBox(height: 24),
