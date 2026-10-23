@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # https://github.com/angelicavillarubia-ai/flutter_basic_lab.git
 
 # build() called: 4 glasses
-# build() called: 5 glasses
+# build() called: 5 glassess
 # build() called: 6 glasses
 
 # Activity 2: moving _glasses++ outside setState
@@ -16,11 +15,7 @@ When I removed Expanded from one StatBox, that box became only as wide as its co
 I changed the button corner radius in buildTheme() from 8 to 20. The Elevated button became much more rounded, with almost pill-shaped ends. The Outlined and Filled buttons did not change, because only elevatedButtonTheme was edited.
 
 
-
-
 # 10 questions.
-=======
->>>>>>> 6974fcd831c60df59d8c4bbd5ab13cb575203ada
 1. What is the difference between a StatelessWidget and a StatefulWidget? Give one example of each
 from this lab.
 A StatelessWidget never changes after it’s built (e.g. StatBox), while a StatefulWidget holds data that changes and redraws (e.g. the Activity 2 water tracker).
